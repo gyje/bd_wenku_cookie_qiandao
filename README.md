@@ -1,6 +1,11 @@
 # bd_wenku_cookie_qiandao
 **百度文库签到**
 
+需要的三方库：
+```
+pip install requests schedule
+```
+
  VPS上执行：
 `git@github.com:gyje/bd_wenku_cookie_qiandao.git`
 
